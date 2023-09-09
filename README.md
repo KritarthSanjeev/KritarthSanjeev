@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KritarthSanjeev
-- 👀 I’m interested in learing new technology
+- 👀 I’m interested in learning new technology
 
 
 <!---
